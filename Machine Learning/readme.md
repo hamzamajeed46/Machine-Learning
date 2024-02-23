@@ -29,7 +29,7 @@ improve model performance.
 ● Predictive modeling: Building machine learning models to predict survival
 outcomes based on passenger attributes.
 ● Model evaluation: Assessing the performance of different models using
-metrics such as accuracy, precision, recall, and ROC curves.
+metrics such as accuracy, precision.
 Overall, the Titanic dataset serves as a valuable resource for practicing data analysis
 and machine learning techniques, as well as for understanding historical events and
 human behavior in critical situations.
