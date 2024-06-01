@@ -1,1 +1,1 @@
-
+This notebook demonstrates the application of some of the regression models on a dataset with and without preprocessing steps. The aim is to compare the performance of these models using standard evaluation metrics. The Jupyter Notebook provides a comprehensive guide on how to preprocess data, apply different regression models, and evaluate their performance.
