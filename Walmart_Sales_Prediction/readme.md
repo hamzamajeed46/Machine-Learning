@@ -1,0 +1,1 @@
+This Jupyter Notebook is for predictions of walmart sales using different regression models and these regression models. The models evaluated include Linear Regression, Decision Tree Regressor, and Random Forest Regressor.
